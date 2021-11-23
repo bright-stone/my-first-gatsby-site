@@ -1,7 +1,6 @@
 import * as React from "react"
-import {Link} from "gatsby"
 import Layout from "../components/layout"
-import { StaticImage } from "gatsby-plugin-image"
+import {StaticImage} from "gatsby-plugin-image"
 
 // styles
 const pageStyles = {
